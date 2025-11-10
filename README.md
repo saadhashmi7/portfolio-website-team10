@@ -10,3 +10,11 @@ Saad, Rafia, Maryam, Nafeesa, Hanan, Aqdas, Maham, Samavia, Wissam, Saqib
 
 ## Purpose
 To learn version control, teamwork, and web design.
+
+## Tools Used
+- HTML
+- CSS
+- Git & GitHub
+
+## Outcome
+We successfully learned version control and teamwork by making a live website.
